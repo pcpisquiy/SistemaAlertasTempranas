@@ -1,0 +1,92 @@
+{
+  "version": 2,
+  "dgSpecHash": "4XA9aAjX2bksFlnOpPGX/Y9i7pKEm8QpUjRHTMcb4aLZA+l+PPzkBOiUGp3wj5MyvvcGduU8ZKEYKsse7Kgwhg==",
+  "success": true,
+  "projectFilePath": "D:\\Programaciones\\PCPP\\A&D\\Sistema_Alertas_Tempranas\\WMSAlertasTempranas\\MsNotificacion\\MsNotificacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pcpis\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\rjcp.core.environment\\0.3.0\\rjcp.core.environment.0.3.0.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\rjcp.core.syscompat\\0.2.0\\rjcp.core.syscompat.0.2.0.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\rjcp.diagnostics.trace\\0.2.1\\rjcp.diagnostics.trace.0.2.1.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\rjcp.io.buffer\\0.2.1\\rjcp.io.buffer.0.2.1.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\rjcp.serialportstream\\3.0.1\\rjcp.serialportstream.3.0.1.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\runtime.android-arm.runtime.native.system.io.ports\\9.0.0-preview.4.24266.19\\runtime.android-arm.runtime.native.system.io.ports.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\runtime.android-arm64.runtime.native.system.io.ports\\9.0.0-preview.4.24266.19\\runtime.android-arm64.runtime.native.system.io.ports.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\runtime.android-x64.runtime.native.system.io.ports\\9.0.0-preview.4.24266.19\\runtime.android-x64.runtime.native.system.io.ports.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\runtime.android-x86.runtime.native.system.io.ports\\9.0.0-preview.4.24266.19\\runtime.android-x86.runtime.native.system.io.ports.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\9.0.0-preview.4.24266.19\\runtime.linux-arm.runtime.native.system.io.ports.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\9.0.0-preview.4.24266.19\\runtime.linux-arm64.runtime.native.system.io.ports.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\runtime.linux-bionic-arm64.runtime.native.system.io.ports\\9.0.0-preview.4.24266.19\\runtime.linux-bionic-arm64.runtime.native.system.io.ports.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\runtime.linux-bionic-x64.runtime.native.system.io.ports\\9.0.0-preview.4.24266.19\\runtime.linux-bionic-x64.runtime.native.system.io.ports.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\runtime.linux-musl-arm.runtime.native.system.io.ports\\9.0.0-preview.4.24266.19\\runtime.linux-musl-arm.runtime.native.system.io.ports.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\runtime.linux-musl-arm64.runtime.native.system.io.ports\\9.0.0-preview.4.24266.19\\runtime.linux-musl-arm64.runtime.native.system.io.ports.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\runtime.linux-musl-x64.runtime.native.system.io.ports\\9.0.0-preview.4.24266.19\\runtime.linux-musl-x64.runtime.native.system.io.ports.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\9.0.0-preview.4.24266.19\\runtime.linux-x64.runtime.native.system.io.ports.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\runtime.maccatalyst-arm64.runtime.native.system.io.ports\\9.0.0-preview.4.24266.19\\runtime.maccatalyst-arm64.runtime.native.system.io.ports.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\runtime.maccatalyst-x64.runtime.native.system.io.ports\\9.0.0-preview.4.24266.19\\runtime.maccatalyst-x64.runtime.native.system.io.ports.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\runtime.native.system.io.ports\\9.0.0-preview.4.24266.19\\runtime.native.system.io.ports.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\9.0.0-preview.4.24266.19\\runtime.osx-arm64.runtime.native.system.io.ports.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\9.0.0-preview.4.24266.19\\runtime.osx-x64.runtime.native.system.io.ports.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\system.data.sqlclient\\4.8.6\\system.data.sqlclient.4.8.6.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\system.io.ports\\9.0.0-preview.4.24266.19\\system.io.ports.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\pcpis\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'RJCP.Core.Environment 0.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "RJCP.Core.Environment",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'RJCP.Core.SysCompat 0.2.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "RJCP.Core.SysCompat",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'RJCP.Diagnostics.Trace 0.2.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "RJCP.Diagnostics.Trace",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'RJCP.IO.Buffer 0.2.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "RJCP.IO.Buffer",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'RJCP.SerialPortStream 3.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "RJCP.SerialPortStream",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

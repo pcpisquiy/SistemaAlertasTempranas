@@ -1,0 +1,17 @@
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\MsNotificacion\bin\Release\net5.0\MsNotificacion.deps.json
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\MsNotificacion\bin\Release\net5.0\MsNotificacion.dll
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\MsNotificacion\bin\Release\net5.0\ref\MsNotificacion.dll
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\MsNotificacion\bin\Release\net5.0\MsNotificacion.pdb
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\MsNotificacion\bin\Release\net5.0\LogicaComun.dll
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\MsNotificacion\bin\Release\net5.0\LogicaComun.pdb
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\MsNotificacion\obj\Release\net5.0\MsNotificacion.csproj.AssemblyReference.cache
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\MsNotificacion\obj\Release\net5.0\MsNotificacion.Properties.Resources.resources
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\MsNotificacion\obj\Release\net5.0\MsNotificacion.csproj.GenerateResource.cache
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\MsNotificacion\obj\Release\net5.0\MsNotificacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\MsNotificacion\obj\Release\net5.0\MsNotificacion.AssemblyInfoInputs.cache
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\MsNotificacion\obj\Release\net5.0\MsNotificacion.AssemblyInfo.cs
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\MsNotificacion\obj\Release\net5.0\MsNotificacion.csproj.CoreCompileInputs.cache
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\MsNotificacion\obj\Release\net5.0\MsNotificacion.csproj.CopyComplete
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\MsNotificacion\obj\Release\net5.0\MsNotificacion.dll
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\MsNotificacion\obj\Release\net5.0\ref\MsNotificacion.dll
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\MsNotificacion\obj\Release\net5.0\MsNotificacion.pdb

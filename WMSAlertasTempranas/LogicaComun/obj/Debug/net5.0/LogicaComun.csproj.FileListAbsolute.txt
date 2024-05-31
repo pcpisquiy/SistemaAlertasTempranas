@@ -1,0 +1,12 @@
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\LogicaComun\bin\Debug\net5.0\LogicaComun.deps.json
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\LogicaComun\bin\Debug\net5.0\LogicaComun.dll
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\LogicaComun\bin\Debug\net5.0\ref\LogicaComun.dll
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\LogicaComun\bin\Debug\net5.0\LogicaComun.pdb
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\LogicaComun\obj\Debug\net5.0\LogicaComun.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\LogicaComun\obj\Debug\net5.0\LogicaComun.AssemblyInfoInputs.cache
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\LogicaComun\obj\Debug\net5.0\LogicaComun.AssemblyInfo.cs
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\LogicaComun\obj\Debug\net5.0\LogicaComun.csproj.CoreCompileInputs.cache
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\LogicaComun\obj\Debug\net5.0\LogicaComun.dll
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\LogicaComun\obj\Debug\net5.0\ref\LogicaComun.dll
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\LogicaComun\obj\Debug\net5.0\LogicaComun.pdb
+D:\Programaciones\PCPP\A&D\Sistema_Alertas_Tempranas\WMSAlertasTempranas\LogicaComun\obj\Debug\net5.0\LogicaComun.csproj.AssemblyReference.cache

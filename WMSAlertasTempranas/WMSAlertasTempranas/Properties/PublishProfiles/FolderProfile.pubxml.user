@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Programaciones\PCPP\A&amp;D\Sistema_Alertas_Tempranas\ServidorDeploy</_PublishTargetUrl>
+    <History>True|2024-05-31T19:48:34.0628122Z;True|2024-05-31T13:42:54.0819338-06:00;True|2024-05-31T13:14:51.0490205-06:00;</History>
+  </PropertyGroup>
+</Project>
