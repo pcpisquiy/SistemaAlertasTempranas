@@ -2493,11 +2493,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programaciones\\PCPP\\A&D\\Sistema_Alertas_Tempranas\\WMSAlertasTempranas\\MsAlertas\\MsAlertas.csproj",
+      "projectUniqueName": "D:\\Programaciones\\PCPP\\Universidad\\A&D\\Sistema_Alertas_Tempranas\\WMSAlertasTempranas\\MsAlertas\\MsAlertas.csproj",
       "projectName": "MsAlertas",
-      "projectPath": "D:\\Programaciones\\PCPP\\A&D\\Sistema_Alertas_Tempranas\\WMSAlertasTempranas\\MsAlertas\\MsAlertas.csproj",
+      "projectPath": "D:\\Programaciones\\PCPP\\Universidad\\A&D\\Sistema_Alertas_Tempranas\\WMSAlertasTempranas\\MsAlertas\\MsAlertas.csproj",
       "packagesPath": "C:\\Users\\pcpis\\.nuget\\packages\\",
-      "outputPath": "D:\\Programaciones\\PCPP\\A&D\\Sistema_Alertas_Tempranas\\WMSAlertasTempranas\\MsAlertas\\obj\\",
+      "outputPath": "D:\\Programaciones\\PCPP\\Universidad\\A&D\\Sistema_Alertas_Tempranas\\WMSAlertasTempranas\\MsAlertas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2512,14 +2512,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Programaciones\\PCPP\\A&D\\Sistema_Alertas_Tempranas\\WMSAlertasTempranas\\LogicaComun\\LogicaComun.csproj": {
-              "projectPath": "D:\\Programaciones\\PCPP\\A&D\\Sistema_Alertas_Tempranas\\WMSAlertasTempranas\\LogicaComun\\LogicaComun.csproj"
+            "D:\\Programaciones\\PCPP\\Universidad\\A&D\\Sistema_Alertas_Tempranas\\WMSAlertasTempranas\\LogicaComun\\LogicaComun.csproj": {
+              "projectPath": "D:\\Programaciones\\PCPP\\Universidad\\A&D\\Sistema_Alertas_Tempranas\\WMSAlertasTempranas\\LogicaComun\\LogicaComun.csproj"
             }
           }
         }
@@ -2554,7 +2555,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

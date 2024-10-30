@@ -114,7 +114,7 @@ const EnviarAlerta = async ()=>{
 }
 btnRegistrarE.addEventListener("click",()=>{
     RegistrarAlerta();
-    EnviarAlerta();
+    //EnviarAlerta();
 
 })
 //

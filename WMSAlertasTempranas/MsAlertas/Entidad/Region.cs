@@ -14,6 +14,7 @@ namespace MsAlertas.Entidad
         public Region(SqlConnection sqlconnection) {
             sqlcnn = sqlconnection;
         }
+        //Listamos regiones
         public List<RegionDTO> ListarRegiones() {
             string sql = "AT_ListarRegiones";
             SqlCommand cmd = new SqlCommand(sql, sqlcnn);

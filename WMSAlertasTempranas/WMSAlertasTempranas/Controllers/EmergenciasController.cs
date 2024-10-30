@@ -11,6 +11,7 @@ namespace WMSAlertasTempranas.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    //API EMERGENCIAS
     public class EmergenciasController : ControllerBase
     {
         private readonly ILogger<EmergenciasController> _logger;

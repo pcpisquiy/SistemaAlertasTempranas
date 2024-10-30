@@ -14,6 +14,10 @@ namespace MsAlertas.Entidad
         public Emergencia(SqlConnection sqlConnection) {
             sqlcnn = sqlConnection;
         }
+        /// <summary>
+        /// Insertamos una emergencia
+        /// </summary>
+        /// <param name="EmergenciaDTO">Objeto que tiene la información de la emegencia</param>
         public void RegistrarEmergencia(EmergenciaDTO EmergenciaDTO) {
             string sql = "AT_RegistrarEmergencia";
             SqlCommand cmd = new SqlCommand(sql, sqlcnn);

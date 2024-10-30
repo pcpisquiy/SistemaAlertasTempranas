@@ -10,6 +10,7 @@ namespace WMSAlertasTempranas.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    //API DE ENVIO DE ALERTAS
     public class EnvioAlertaController : ControllerBase
     {
 

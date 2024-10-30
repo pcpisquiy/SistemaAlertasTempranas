@@ -15,6 +15,7 @@ namespace MsAlertas.Entidad
         public TipoEmergencia(SqlConnection _sqlcnn) {
             sqlcnn = _sqlcnn;
         }
+        //Listamos tipos de emergencia
         public List<TipoEmergenciaDTO> ListarTEmergencia() {
             string sql = "AT_ListarTipoEmergencia";
             SqlCommand cmd = new SqlCommand(sql, sqlcnn);

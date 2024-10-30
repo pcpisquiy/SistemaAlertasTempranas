@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4XA9aAjX2bksFlnOpPGX/Y9i7pKEm8QpUjRHTMcb4aLZA+l+PPzkBOiUGp3wj5MyvvcGduU8ZKEYKsse7Kgwhg==",
+  "dgSpecHash": "PnOe84w0ysKrWPR6vUZIv41n/UV2SsnakGP+VJpY1qROuLe9HwuYHkqnqhK9Y2SImxNrig6cxffHW3P+h7sr4w==",
   "success": true,
-  "projectFilePath": "D:\\Programaciones\\PCPP\\A&D\\Sistema_Alertas_Tempranas\\WMSAlertasTempranas\\MsNotificacion\\MsNotificacion.csproj",
+  "projectFilePath": "D:\\Programaciones\\PCPP\\Universidad\\A&D\\Sistema_Alertas_Tempranas\\WMSAlertasTempranas\\MsNotificacion\\MsNotificacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pcpis\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\pcpis\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

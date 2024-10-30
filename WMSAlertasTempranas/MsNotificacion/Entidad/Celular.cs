@@ -10,20 +10,35 @@ namespace MsNotificacion.Entidad
 {
    public class Celular
     {
+        //Candea de conexion
         private SqlConnection sqlcnn = null;
         public Celular(SqlConnection sqlconnection)
         {
+            //Inicializacmos la cadena de conexion
             sqlcnn = sqlconnection;
         }
+        /// <summary>
+        /// Lista de celulares por región
+        /// </summary>
+        /// <param name="IdRegion">Region de donde listaremos los celulares</param>
+        /// <returns>Lista de celulares</returns>
         public List<CelularDTO> ListarCelularRegion(int IdRegion)
         {
+            //Procedimiento almacenado de la base de datos
             string sql = "AT_ListarCelularRegion";
             SqlCommand cmd = new SqlCommand(sql, sqlcnn);
             cmd.CommandType = CommandType.StoredProcedure;
+            //Añadimos parametros a al procedimiento
+            //Añadimos parametros a al procedimiento
             cmd.Parameters.Add(new SqlParameter("@IdRegion", IdRegion));
+            //Listamos la información
             return CargarReader(cmd.ExecuteReader());
         }
-
+        /// <summary>
+        /// Lista de celulares
+        /// </summary>
+        /// <param name="reader">Objeto reader encargado de la lectura de datos</param>
+        /// <returns>Lista con la informacion de la BD</returns>
         protected List<CelularDTO> CargarReader(SqlDataReader reader)
         {
             try

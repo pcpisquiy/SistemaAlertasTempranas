@@ -20,20 +20,12 @@ namespace LogicaComun
                 return _Instancia;
             }
         }
-        public decimal CalcularIVA(decimal IVA, decimal monto)
-        {
-            decimal montoIVA;
-
-            montoIVA = (monto / (1 + (IVA / 100)));
-            return montoIVA = monto - montoIVA;
-        }
-
-        public decimal CalcularInventario(decimal inventario, decimal invMovimiento)
-        {
-            decimal resultado = 0;
-
-            return resultado = inventario = invMovimiento;
-        }
+        /// <summary>
+        /// Función para encriptar informacion
+        /// </summary>
+        /// <param name="Pass">Valor a encriptar</param>
+        /// <param name="Clave">Clave para encriptar y desencriptar</param>
+        /// <returns>Valor encriptado</returns>
         public string Encripta(string Pass, string Clave)
         {
             try
@@ -56,7 +48,12 @@ namespace LogicaComun
                 throw (ex);
             }
         }
-
+        /// <summary>
+        /// Función para desencriptar informacion
+        /// </summary>
+        /// <param name="Pass">Valor a desencriptar</param>
+        /// <param name="Clave">Clave para desencriptar</param>
+        /// <returns>Valor desencriptado</returns>
         public string DesEncripta(string Pass, string Clave)
         {
             try
